@@ -4,7 +4,6 @@ import App from "./components/App.jsx";
 import * as serviceWorker from "./serviceWorker";
 import "./sass/main.scss";
 
-
 const rootElement = document.getElementById("root");
 
 ReactDOM.render(<App />, rootElement);
