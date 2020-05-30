@@ -22,6 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# react
-src/components
-src/sass
+#react
+/src/components
+/src/sass
+/public/_grid.html
+/fonts
+/src/css
