@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #react
-/src/components
 /src/sass
 /public/_grid.html
 /fonts
